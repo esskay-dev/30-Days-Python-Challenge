@@ -8,3 +8,11 @@ This repository contains my Python practice notebooks completed using Google Col
 - Control Flow
 - Funtions
 - Data Structures
+
+## Tools Used
+- Python
+- Google Colab
+- GitHub
+
+## Goal 
+To build a strong foundation in Python and prepare for data engineering and data analysis projects
