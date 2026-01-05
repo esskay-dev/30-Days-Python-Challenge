@@ -1,8 +1,8 @@
 # 30-Days-Python-Challenge
 This repository contains my Python practice notebooks completed using Google Colab. It covers daily exercises and practice notebooks as part of a 30-day challenge.
 
-## Day 1 & 2
-- [Variables, Data Types, Built-in() function, & Multiple Varibales
+## Topics
+- [Day 1 & 2: Variables, Data Types, Built-in() function, & Multiple Varibales
   ](
 variables_and__data_types.ipynb)
 - Operators
