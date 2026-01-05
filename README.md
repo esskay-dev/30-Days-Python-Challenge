@@ -1,5 +1,5 @@
-# 30-Days-Python-Challenge
-This repository contains my Python notebooks completed in Google Colab. It includes daily exercises over 30 days toward my goal of becoming a Data Engineer.
+# Foundational Programming for Data Engineering
+This repository contains my Python notebooks completed in Google Colab. It includes daily exercises from my first semester at AltSchool
 
 ## Topics
 - [Day 1 & 2: Variables, Data Types, Built-in() functions, & Multiple Variabales
