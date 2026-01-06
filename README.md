@@ -2,7 +2,7 @@
 This repository contains my Python notebooks completed in Google Colab. It includes daily exercises from my first semester at AltSchool
 
 ## First Semester - Introduction to Programming
-- [Variables, Data Types, and Control Flow](
+- [Variables, Data Types, Multiple Variables, and Control Flow](
 variables_and__data_types.ipynb)
 - Operators
 - Input and Output
